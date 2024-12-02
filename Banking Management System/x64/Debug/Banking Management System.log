@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA\Banking Management System\Banking Management System\MyForm.cpp(8,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Banking Management System.vcxproj -> C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA\Banking Management System\x64\Debug\Banking Management System.exe
